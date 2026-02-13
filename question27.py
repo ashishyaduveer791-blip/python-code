@@ -1,0 +1,7 @@
+WhichCocepttyouknow= str(input("Enter to  three: "))
+one = ("Keyword argument:A keyword argument is an argument passed to a function by specifying the parameter name along with its value.")
+print(one)
+Two = ("A default argument is a parameter that has a default value.")
+print(Two)
+Three=("A variable length argument allows a function to accept any number of arguments.")
+print(Three)
